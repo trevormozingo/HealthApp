@@ -1,0 +1,44 @@
+Apple: 72
+Bagel: 289
+Banana: 105
+Beer: 153
+Bread: 66
+Butter: 102
+Carrots: 52
+Cheddar cheese: 113
+Chicken breast: 142
+Chili with beans: 287
+Chocolate chip cookie: 59
+Coffee: 2
+Cola: 136
+Corn: 180
+Egg: 102
+Graham cracker: 59
+Granola bar: 193
+Green beans: 40
+Hot dog: 137
+Ice cream: 145
+Jelly doughnut: 289
+Ketchup: 15
+Milk: 122
+Mixed nuts: 168
+Mustard: 6
+Oatmeal: 147
+Orange juice: 112
+Peanut butter: 180
+Pizza: 298
+Pork chop: 221
+Potato: 161
+Potato chips: 155
+Pretzels: 108
+Raisins: 130
+Ranch salad dressing: 146
+Red wine: 123
+Rice: 205
+Salsa: 35
+Shrimp: 84
+Spaghetti: 221
+Spaghetti sauce: 92
+Tuna: 100
+White wine: 121
+Yellow cake: 243

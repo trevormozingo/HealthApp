@@ -1,0 +1,24 @@
+The Health Tracker uses data from the HealthKit. 
+If no data already exists in the health kit, add sample data for
+BMI and Active Energy. 
+
+When running the health tracker, be sure to allow access to all data. 
+
+The app will then list your BMI, and calories burned. You can then add
+to your day consumption by listing foods you have eaten, the quanitiy, and
+the calorie count. (There is an estimates page if you are unsure of the 
+calorie count). 
+
+With your day consumption listed, the home page will allow you to see
+if you have a positive calorie gain, or loss. 
+
+NOTE: If simulator starts running for the first time, the request to 
+permit data access, may time out. If this occurs, go to the Health app, and
+allow health tracker to access the data. 
+
+
+
+
+
+
+
